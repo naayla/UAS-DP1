@@ -105,4 +105,5 @@ if k='N' then
 end;
 
 writeln('Terima Kasih');
+writeln('Sampai jumpa');
 end.
