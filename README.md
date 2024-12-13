@@ -2,5 +2,6 @@
 
 Kelompok Gose.
 
-Nayla Syifa Tanjung (241401019).
-Ruben Sorisena (241401040).
+Nayla Syifa Tanjung (241401019)
+
+Ruben Sorisena (241401040)
